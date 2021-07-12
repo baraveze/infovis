@@ -1,1 +1,6 @@
-Esto es una prueba
+Horizon Graphs
+Small Multiples
+Stem-and-Leaf Plots
+QQ Plots
+quantiles
+SPLOM
