@@ -4,3 +4,4 @@ Stem-and-Leaf Plots
 QQ Plots
 quantiles
 SPLOM
+
