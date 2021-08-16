@@ -382,8 +382,13 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
+.epigrafe p {
+
+  text-align: center;
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
